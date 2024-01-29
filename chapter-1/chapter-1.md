@@ -28,3 +28,8 @@ Every year the Loebner Prize is awarded to the program that comes closest to pas
 Solution 3
 N/A. This award is now defunct (since 2020). Reading the wikipedia I don't learn much and not interested to research more on defunct contests...
 
+Exercise 4
+Are reflex actions (such as flinching from a hot stove) rational? Are they intelligent?
+
+Solution 4
+I instinct answer is no for both. Upon reflection, I think it still holds. Reflex actions is good in the question's case, but there is no "decision" involved; and since I define intelligence to be making rational decisions, it concludes natrually that reflex actions are not intelligent actions. What is interesting is that I seem to not make differences in rationality and intelligence.
