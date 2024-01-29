@@ -53,3 +53,12 @@ Solution 7
 I am assuming Figure 1.2.
 The sea slug Aplysia has approximately the same cycle period as a human brain = 103. memory updates per second. The high-end computer computational power is 1014 memory updates per second, so a high-end computer is twice? (shoudl be ten times) as fast.
 Reference (https://www.google.com/search?q=neural+structure+of+aplysis+memory+update+per+second&sca_esv=602258076&rlz=1C1FKPE_zh-TWTW935TW939&ei=7ja3ZaKTHYvP1e8P5vO_mAc&ved=0ahUKEwiiwsGP7oGEAxWLZ_UHHeb5D3MQ4dUDCBA&uact=5&oq=neural+structure+of+aplysis+memory+update+per+second&gs_lp=Egxnd3Mtd2l6LXNlcnAiNG5ldXJhbCBzdHJ1Y3R1cmUgb2YgYXBseXNpcyBtZW1vcnkgdXBkYXRlIHBlciBzZWNvbmRImC5QygFYmy1wAXgBkAEAmAGpAaABkA-qAQQyMi4zuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBxAhGAoYoAHCAgQQIRgVwgIJECEYChigARgK4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp)
+
+Exercise 8
+How could introspection—reporting on one’s inner thoughts—be inaccurate? Could I be wrong about what I’m thinking? Discuss.
+
+Solution 8
+Some points that jump to mind:
+a. The action of introspection could mutate the original thoughts, e.g. throwing in an extra parameter in your thought function could tamper the results itself.
+b. I buy into the notion that in order to describe something, language is needed, and it is possible that there are many things not describable by language.
+c. When introspecting, it is very difficult to account for all possible factors that result in your resulting thoughts, hence it's not going to accurately depict all aspects.
