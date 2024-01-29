@@ -40,3 +40,8 @@ There are well-known classes of problems that are intractably difficult for comp
 Solution 5
 I don't see why that would be the case. We as humans can't solve intractable problems and undecidable problems efficiently, and I say we are intelligent, are we not?
 
+Exercise 6
+Suppose we extend Evans’s SYSTEM program so that it can score 200 on a standard IQ test. Would we then have a program more intelligent than a human? Explain.
+
+Solution 6
+We can only say that we have a program more intelligent than a human on stadard IQ tests.
