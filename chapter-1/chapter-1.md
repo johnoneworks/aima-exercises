@@ -45,3 +45,11 @@ Suppose we extend Evans’s SYSTEM program so that it can score 200 on a standar
 
 Solution 6
 We can only say that we have a program more intelligent than a human on stadard IQ tests.
+
+Exercise 7
+The neural structure of the sea slug Aplysis has been widely studied (first by Nobel Laureate Eric Kandel) because it has only about 20,000 neurons, most of them large and easily manipulated. Assuming that the cycle time for an Aplysis neuron is roughly the same as for a human neuron, how does the computational power, in terms of memory updates per second, compare with the high-end computer described in (Figure 1.3)?
+
+Solution 7
+I am assuming Figure 1.2.
+The sea slug Aplysia has approximately the same cycle period as a human brain = 103. memory updates per second. The high-end computer computational power is 1014 memory updates per second, so a high-end computer is twice? (shoudl be ten times) as fast.
+Reference (https://www.google.com/search?q=neural+structure+of+aplysis+memory+update+per+second&sca_esv=602258076&rlz=1C1FKPE_zh-TWTW935TW939&ei=7ja3ZaKTHYvP1e8P5vO_mAc&ved=0ahUKEwiiwsGP7oGEAxWLZ_UHHeb5D3MQ4dUDCBA&uact=5&oq=neural+structure+of+aplysis+memory+update+per+second&gs_lp=Egxnd3Mtd2l6LXNlcnAiNG5ldXJhbCBzdHJ1Y3R1cmUgb2YgYXBseXNpcyBtZW1vcnkgdXBkYXRlIHBlciBzZWNvbmRImC5QygFYmy1wAXgBkAEAmAGpAaABkA-qAQQyMi4zuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBxAhGAoYoAHCAgQQIRgVwgIJECEYChigARgK4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp)
