@@ -33,3 +33,10 @@ Are reflex actions (such as flinching from a hot stove) rational? Are they intel
 
 Solution 4
 I instinct answer is no for both. Upon reflection, I think it still holds. Reflex actions is good in the question's case, but there is no "decision" involved; and since I define intelligence to be making rational decisions, it concludes natrually that reflex actions are not intelligent actions. What is interesting is that I seem to not make differences in rationality and intelligence.
+
+Exercise 5
+There are well-known classes of problems that are intractably difficult for computers, and other classes that are provably undecidable. Does this mean that AI is impossible?
+
+Solution 5
+I don't see why that would be the case. We as humans can't solve intractable problems and undecidable problems efficiently, and I say we are intelligent, are we not?
+
