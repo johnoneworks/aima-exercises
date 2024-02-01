@@ -83,3 +83,9 @@ Many of the computational models of cognitive activities that have been proposed
 
 Solution 11
 I would say the brain is doing this "calculation" on a reflex level, e.g. the brain is able to respond on a reflex level to find answers. All this math is in my opinion of humans trying to define and find a way of describing this behavior, which takes effort to learn the definition and logic, but might not even be the way that our brain works.
+
+Exercise 12
+Some authors have claimed that perception and motor skills are the most important part of intelligence, and that “higher level” capacities are necessarily parasitic—simple add-ons to these underlying facilities. Certainly, most of evolution and a large part of the brain have been devoted to perception and motor skills, whereas AI has found tasks such as game playing and logical inference to be easier, in many ways, than perceiving and acting in the real world. Do you think that AI’s traditional focus on higher-level cognitive abilities is misplaced?
+
+Solution 12
+In a way I agree. If we only care about consequences, then perception and motor skills would be what are the "only" important aspects. What deserves to be said is that although this is case, what consequently follows is that we might not be able to "understand" why some decisions are made.
