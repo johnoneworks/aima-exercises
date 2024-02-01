@@ -78,3 +78,8 @@ c. Voice-activated telephone menus: High, supposing that we want to do general c
 d. Spelling and grammar correction features in Microsoft Word: Low or Medium, as my understanding is it's basically a lookup table as well
 e. Internet routing algorithms that respond dynamically to the state of the network: Medium to High, as it's high in the sense that there are many states (probably exponential), but not so high in the sense that I feel it's definable
 
+Exercise 11
+Many of the computational models of cognitive activities that have been proposed involve quite complex mathematical operations, such as convolving an image with a Gaussian or finding a minimum of the entropy function. Most humans (and certainly all animals) never learn this kind of mathematics at all, almost no one learns it before college, and almost no one can compute the convolution of a function with a Gaussian in their head. What sense does it make to say that the “vision system” is doing this kind of mathematics, whereas the actual person has no idea how to do it?
+
+Solution 11
+I would say the brain is doing this "calculation" on a reflex level, e.g. the brain is able to respond on a reflex level to find answers. All this math is in my opinion of humans trying to define and find a way of describing this behavior, which takes effort to learn the definition and logic, but might not even be the way that our brain works.
