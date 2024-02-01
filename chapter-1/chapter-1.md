@@ -89,3 +89,10 @@ Some authors have claimed that perception and motor skills are the most importan
 
 Solution 12
 In a way I agree. If we only care about consequences, then perception and motor skills would be what are the "only" important aspects. What deserves to be said is that although this is case, what consequently follows is that we might not be able to "understand" why some decisions are made.
+
+Exercise 13
+Why would evolution tend to result in systems that act rationally? What goals are such systems designed to achieve?
+
+Solution 13
+According to my definition, rationality is the ability to decide and behave in a "good" way. Since evolution is the process of of rewarding good decisions, e.g. for good behaviors, the probability of survival and allowing that behavior to be inherited and passed on is higher than the "bad" genes, the result would be that evolution will gravitate toward rational beings. For evolution, I would assume that if there is a goal, the goal is to survive... but personally I feel there isn't a goal per say.
+
