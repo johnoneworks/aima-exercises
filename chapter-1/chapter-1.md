@@ -96,3 +96,9 @@ Why would evolution tend to result in systems that act rationally? What goals ar
 Solution 13
 According to my definition, rationality is the ability to decide and behave in a "good" way. Since evolution is the process of of rewarding good decisions, e.g. for good behaviors, the probability of survival and allowing that behavior to be inherited and passed on is higher than the "bad" genes, the result would be that evolution will gravitate toward rational beings. For evolution, I would assume that if there is a goal, the goal is to survive... but personally I feel there isn't a goal per say.
 
+Exercise 14
+Is AI a science, or is it engineering? Or neither or both? Explain.
+
+Solution 14
+Both. Man, what is science? I think it's just a name for being rational... so AI is a science, since we(I) want AI to be rational. Also, if we want to see the differences that AI makes, then it's definitely engineering, where I define the word of engineering as the ability to make changes to the environment.
+
