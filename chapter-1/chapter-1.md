@@ -62,3 +62,19 @@ Some points that jump to mind:
 a. The action of introspection could mutate the original thoughts, e.g. throwing in an extra parameter in your thought function could tamper the results itself.
 b. I buy into the notion that in order to describe something, language is needed, and it is possible that there are many things not describable by language.
 c. When introspecting, it is very difficult to account for all possible factors that result in your resulting thoughts, hence it's not going to accurately depict all aspects.
+
+Exercise 9-10
+To what extent are the following computer systems instances of artificial intelligence:
+- Supermarket bar code scanners.
+- Web search engines.
+- Voice-activated telephone menus.
+- Spelling and grammar correction features in Microsoft Word.
+- Internet routing algorithms that respond dynamically to the state of the network.
+
+Solution 9-10
+a. Supermarket bar code scanners: Low, it's almost only a lookup table reflex
+b. Web search engines: Medium, though it feels spectacular, it follows a relatively clear algorithm, I think?!
+c. Voice-activated telephone menus: High, supposing that we want to do general conversation level understanding
+d. Spelling and grammar correction features in Microsoft Word: Low or Medium, as my understanding is it's basically a lookup table as well
+e. Internet routing algorithms that respond dynamically to the state of the network: Medium to High, as it's high in the sense that there are many states (probably exponential), but not so high in the sense that I feel it's definable
+
