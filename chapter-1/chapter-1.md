@@ -113,3 +113,15 @@ Exercise 16
 
 Solution 16
 I don't think so, maybe I'm wrong, but genes only is a part of the decision of behavior, I think? Even if it's true, if what the genes are saying are intelligent, then wouldn't the animal be intelligent?
+
+Exercise 17
+“Surely animals, humans, and computers cannot be intelligent—they can do only what their constituent atoms are told to do by the laws of physics.” Is the latter statement true, and does it imply the former?
+
+Solution 17
+Now this is interesting. Being a materialist (if you are one), then this statement makes sense, where everything is determined by the laws of physics. In other words, if according to my definition, where intelligence implies a degree of "deciding", then there's no room for intelligence in the world. My way of circumvating this problem is that as long as there appears to have the appearance of making choices and the agent "makes" a choice, then I guess they are intelligent...
+
+Exercise 18
+Examine the AI literature to discover whether the following tasks can currently be solved by computers: - Playing a decent game of table tennis (Ping-Pong). - Driving in the center of Cairo, Egypt. - Driving in Victorville, California. - Buying a week’s worth of groceries at the market. - Buying a week’s worth of groceries on the Web. - Playing a decent game of bridge at a competitive level. - Discovering and proving new mathematical theorems. - Writing an intentionally funny story. - Giving competent legal advice in a specialized area of law. - Translating spoken English into spoken Swedish in real time. - Performing a complex surgical operation.
+
+Solution 18
+Didn't really do research, but all seems to be doable with AI now (2024).
