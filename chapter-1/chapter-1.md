@@ -102,3 +102,8 @@ Is AI a science, or is it engineering? Or neither or both? Explain.
 Solution 14
 Both. Man, what is science? I think it's just a name for being rational... so AI is a science, since we(I) want AI to be rational. Also, if we want to see the differences that AI makes, then it's definitely engineering, where I define the word of engineering as the ability to make changes to the environment.
 
+Exercise 15
+“Surely computers cannot be intelligent—they can do only what their programmers tell them.” Is the latter statement true, and does it imply the former?
+
+Solution 15
+I suppose it's true, but the rub lies in what the programmers are able to tell them. What if the programmer tells the computer to be intelligent? So no, it does not imply the former.
