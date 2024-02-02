@@ -107,3 +107,9 @@ Exercise 15
 
 Solution 15
 I suppose it's true, but the rub lies in what the programmers are able to tell them. What if the programmer tells the computer to be intelligent? So no, it does not imply the former.
+
+Exercise 16
+“Surely animals cannot be intelligent—they can do only what their genes tell them.” Is the latter statement true, and does it imply the former?
+
+Solution 16
+I don't think so, maybe I'm wrong, but genes only is a part of the decision of behavior, I think? Even if it's true, if what the genes are saying are intelligent, then wouldn't the animal be intelligent?
