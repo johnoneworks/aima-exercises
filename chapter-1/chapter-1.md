@@ -125,3 +125,9 @@ Examine the AI literature to discover whether the following tasks can currently 
 
 Solution 18
 Didn't really do research, but all seems to be doable with AI now (2024).
+
+Exercise 19
+For the currently infeasible tasks, try to find out what the difficulties are and predict when, if ever, they will be overcome.
+
+Solution 19
+The one holy grail I see right now for AI is the self driving car. The main difficulty is the sheer number of possibilities in the real world. Talk of solving this has been going on for a few years now but to no avail. I personally hope and predict it will be overcome within 3 years, with not enough knowledge on this whatsoever.
