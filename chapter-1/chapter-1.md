@@ -131,3 +131,44 @@ For the currently infeasible tasks, try to find out what the difficulties are an
 
 Solution 19
 The one holy grail I see right now for AI is the self driving car. The main difficulty is the sheer number of possibilities in the real world. Talk of solving this has been going on for a few years now but to no avail. I personally hope and predict it will be overcome within 3 years, with not enough knowledge on this whatsoever.
+
+Exercise 20
+Various subfields of AI have held contests by defining a standard task and inviting researchers to do their best. Examples include the DARPA Grand Challenge for robotic cars, the International Planning Competition, the Robocup robotic soccer league, the TREC information retrieval event, and contests in machine translation and speech recognition. Investigate five of these contests and describe the progress made over the years. To what degree have the contests advanced the state of the art in AI? To what degree do they hurt the field by drawing energy away from new ideas?
+
+Solution 20
+- DARPA Grand Challenge
+    - 2004-2007: Building of robotics is part of the competition
+        - 2004: 240 km route in the Mojave Desert, none made it, furthest being 11.78 km
+        - 2005: 22 out of 23 finalist surpassed 11.78 km, with 5 vehicles completing the 212 km course
+            - 3 narrow tunnels and > 100 sharp left/right turns
+        - 2007: 96 km of urban area, you have to obey all traffic regulations, with sparse maps provided, 6 teams finished
+    - 2012+: "Vehicles" & robot construction are done uniformly
+        - 2013: FANG Challenge, focused on the design, verification and manufacturing of defense systems and vehicles...
+        - 2017-2021: Subterranean Challenge
+            - Diversity needed
+            - Having robots bring back information to enhance data
+            - Describing goals and then let robots handle the details
+            - 2018: (Orbit) Launch Challenge
+                - Fail
+- International Planning Competition
+    - 1998: No winners, showcase state-of-art algorithm performance
+    - PDDL developed as a language for planning
+    ...
+    - The official website of all the years are really over my head...Orz
+- RoboCup
+    - Beat the World Cup players via robots
+    - Fully autonomous, only human is the referee
+- TREC
+    - Support and encourage large-scale evaluation of text retrieval methodologies
+    - 2010 study estimate that without TREC, US internet users would have spent up to 3.15 billion additional hours using web search engines between 1999 - 2009
+    - 1992: 
+        - revealed the facts that automatic construction of queires from natural language query statements seems to work
+        - techniques based on natural language processing were no better no worse than those based on vector or probabilistic approach
+    - NIST claims that within the first six years of the workshops, the effectiveness of retrieval systems approximately doubled
+    - RTII found that 
+        - "about one-third of the improvement in web search engines from 1999 to 2009 is attributable to TREC"
+        - every $1 that NIST and its partners invested in TREC, at least $3.35 to $5.07 in benefits were accrued to US information retrieval researchers
+- WMT - the conference on machine translation
+    - too dense for me...
+
+All in all, I don't the competitions hurt the field. We are too early in the field to KNOW what part to waste energy on, so I give them all credit.
