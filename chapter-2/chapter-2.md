@@ -20,3 +20,9 @@ Solution 2
 3. It makes sense to learn from experience in these cases. Some of what it should learn:
     - the geography of the environment
     - the pattern of how squares get dirty
+
+Exercise 3
+Write an essay on the relationship between evolution and one or more of autonomy, intelligence, and learning.
+
+Solution 3
+Evolution is essentially a description of the rules for automaticlly adjusting to enhance the chance of surviving. I think intelligence and learning are just by products of evolution, where it happens that having intelligence and learning ability increased the chance of survival.
