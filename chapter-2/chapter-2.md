@@ -61,3 +61,62 @@ Solution 4
     - Take an example of an agent with no sensors, but the performance measure is to not run into any thing, then a moving agent is not rational
 9. False
     - Agent goes all in with AA then gets beat with no more chips to reload
+
+Exercise 5 & 6
+For each of the following activities, give a PEAS description of the task environment and characterize it in terms of the properties listed in Section 
+- Playing soccer.
+- Performing a gymnastics floor routine.
+- Exploring the subsurface oceans of Titan.
+- Shopping for used AI books on the Internet.
+- Playing a tennis match.
+- Practicing tennis against a wall.
+- Performing a high jump.
+- Knitting a sweater.
+- Bidding on an item at an auction.
+
+Solution 5 & 6
+- Playing soccer
+    - P: score more goals than opposing team
+    - E: soccer field, opposing team location and motion, ball
+    - A: humanoid? robot that can kick? the ball and move around
+    - S: video cameras, lidar?
+- Performing a gymnastics floor routine
+    - P: scores according to gymnastic rules
+    - E: gym floor, maybe items used for the performance
+    - A: humanoid robot that can perform gymastic movements
+    - S: video cameras
+- Exploring the subsurface oceans of Titan
+    - P: amount of "data" (I don't really know what are the important data for this) collected
+    - E: ocean and all its glory
+    - A: robotic vehicle that can move freely in the ocean
+    - S: a bunch of sensors that we want data for
+- Shopping for used AI books on the Internet
+    - P: minimized price, maximized satisfaction
+    - E: information on the internet
+    - A: display screen capable of human input
+    - S: Internet data tranceiver
+- Playing a tennis match
+    - P: win amount of sets needed before opponent does
+    - E: tennis court, opposing player location and movement, ball
+    - A: robotic vehicle that can use a racquet and move around
+    - S: video cameras, lidar?
+- Practicing tennis against a wall
+    - P: having the rebound ball trajectory land within half court and hitting the ball within 1 bounce
+    - E: wall, half-court, ball
+    - A: robotic vehicle that can use a racquet and move around
+    - S: video cameras, lidar?
+- Performing a high jump
+    - P: having agent clear the bar set for the height
+    - E: valid field, bar for height
+    - A: robotic vehicle that can jump (take off from ground and then after hitting max height, free fall and land?)
+    - S: video cameras, lidar?
+- Knitting a sweater
+    - P: within a finite time stopping with a sweater that adheres to the size requirement
+    - E: placment of needles, placement of thread(s), awareness of current progress
+    - A: robotic mechanism for manipulating thread and needlework
+    - S: video cameras, lidar?
+- Bidding on an item at an auction (I am assuming live auction)
+    - P: obtaining item of interest at the range of price (lowest when there are more than one option) within the allotted time frame
+    - E: auction house, stage of display, auctioner
+    - A: mechanics to participate in auction
+    - S: video cameras, microphone
