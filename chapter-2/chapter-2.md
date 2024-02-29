@@ -120,3 +120,21 @@ Solution 5 & 6
     - E: auction house, stage of display, auctioner
     - A: mechanics to participate in auction
     - S: video cameras, microphone
+
+Exercise 7
+Define in your own words the following terms: agent, agent function, agent program, rationality, autonomy, reflex agent, model-based agent, goal-based agent, utility-based agent, learning agent.
+
+Solution 7
+- agent: an entity that interacts with the defined environment
+- agent function: the set inputs to the sensors with corresponsding actions that the agent will perform
+- agent program: a program that implements the agent function
+- rationality: the ability to decide and choose actions that leads to the best possible result
+- autonomy: the ability to function on its own (totally different than what's on the text book...XD)
+    - not depending on preset rules and settings, but being able to derive its own decision (by learning and adjusting)
+- reflex agent: agents that perform actions on hardcoded rules (wrong on this one as well)
+    - an agent that only depends on the current precept and not the history
+- model-based agent: agent that models a concept so that it acts according to the conditions of the model
+    - should emphasize that it the model refers to the environment
+- goal-based agent: agent that has a goal being set and acts according to end in that goal
+- utility-based agent: a fine-grained version of the goal-based agent, where the goal is replaced with a set of utility measures, where the agent tries to maximize the total utility
+- learning agent: agent that uses results from actions that readjusts their agent program
