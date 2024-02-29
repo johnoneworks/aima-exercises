@@ -138,3 +138,19 @@ Solution 7
 - goal-based agent: agent that has a goal being set and acts according to end in that goal
 - utility-based agent: a fine-grained version of the goal-based agent, where the goal is replaced with a set of utility measures, where the agent tries to maximize the total utility
 - learning agent: agent that uses results from actions that readjusts their agent program
+
+Exercise 8
+This exercise explores the differences between agent functions and agent programs.
+1. Can there be more than one agent program that implements a given agent function? Give an example, or show why one is not possible.
+2. Are there agent functions that cannot be implemented by any agent program?
+3. Given a fixed machine architecture, does each agent program implement exactly one agent function?
+4. Given an architecture with n
+ bits of storage, how many different possible agent programs are there?
+5. Suppose we keep the agent program fixed but speed up the machine by a factor of two. Does that change the agent function?
+
+Solution 8
+1. Yes, example, one in Javascript, one in C#
+2. I would assume yes, example, an agent function that does impossible things, i.e. input clap of hand -> output become god
+3. No, i.e., function #1 returns true for input 1 but false for input 2; function #2 returns true for input 1 but false for input 2 & 3.
+4. I think it's infinity, as there should be agent programs that don't need storage, assuming that we are not counting the storage needed for the agent program itself
+5. No, unless there are time contraints on the precept and actions. I.e. an action "needs" 2 hours to finish, then you can't speed it to 1 hour
