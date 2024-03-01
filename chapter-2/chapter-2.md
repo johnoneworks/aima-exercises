@@ -154,3 +154,33 @@ Solution 8
 3. No, i.e., function #1 returns true for input 1 but false for input 2; function #2 returns true for input 1 but false for input 2 & 3.
 4. I think it's infinity, as there should be agent programs that don't need storage, assuming that we are not counting the storage needed for the agent program itself
 5. No, unless there are time contraints on the precept and actions. I.e. an action "needs" 2 hours to finish, then you can't speed it to 1 hour
+
+Exercise 9
+Write pseudocode agent programs for the goal-based and utility-based agents.
+
+Solution 9
+- goal-based
+    function GOAL-BASED-AGENT(percept) returns an action
+        persistent: 
+            state, the agent's current conception of the world state
+            transition_model, a description of how the next state depends on the current state and action
+            sensor_model, a description of how the current world state is reflected in the agent's percepts
+            goal, the goal of the agent
+            action, the most recent action, initially none
+
+        state <- UPDATE-STATE(state, action, percept, transition_model, sensor_model)
+        action <- CHOOSE-ACTION(goal, state, transition_model)
+        return action
+- utility-based
+    function UTILITY-BASED-AGENT(percept) returns an action
+        persistent:
+            state, the agent's current conception of the world state
+            transition_model, a description of how the next state depends on the current state and action
+            sensor_model, a description of how the current world state is reflected in the agent's percepts
+            utility_model, a description of the utility tradeoffs for the "happiest" expected result
+            action, the most recent action, initially none
+
+        state <- UPDATE-STATE(state, action, percept, transition_model, sensor_model)
+        action <- CHOOSE-ACTION(utility_model, state, transition_model)
+        return action
+
