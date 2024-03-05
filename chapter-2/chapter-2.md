@@ -201,3 +201,15 @@ Implement a simple reflex agent for the vacuum environment in Exercise 2.10. Run
 
 Solution 12
 Problem with Exercise 10, doesn't make sense and I'm too lazy to come up with my own problem...
+
+Exercise 13
+Consider a modified version of the vacuum environment in Exercise 2.10, in which the agent is penalized one point for each movement.
+1. Can a simple reflex agent be perfectly rational for this environment? Explain.
+2. What about a reflex agent with state? Design such an agent.
+3. How do your answers to 1 and 2 change if the agent’s percepts give it the clean/dirty status of every square in the environment?
+
+Solution 13
+Still some problems with Exercise 10
+1. Under the condition that dirt appears after being cleaned, then yes. That's because, it makes rational sense to travel (maybe after a timeout) to another square to check if it's dirty
+2. See soultion-13-2.tsx
+3. If the status of all squares is given, then the agent doesn't need to wait
