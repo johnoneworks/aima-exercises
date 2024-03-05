@@ -195,3 +195,9 @@ Implement a performance-measuring environment simulator for the vacuum-cleaner w
 
 Solution 11
 See solution-11.tsx
+
+Exercise 12
+Implement a simple reflex agent for the vacuum environment in Exercise 2.10. Run the environment with this agent for all possible initial dirt configurations and agent locations. Record the performance score for each configuration and the overall average score.
+
+Solution 12
+Problem with Exercise 10, doesn't make sense and I'm too lazy to come up with my own problem...
