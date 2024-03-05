@@ -189,3 +189,9 @@ Consider a simple thermostat that turns on a furnace when the temperature is at 
 
 Solution 10
 Reflex, since no previous percept is needed
+
+Exercise 11
+Implement a performance-measuring environment simulator for the vacuum-cleaner world depicted in Figure 2.8 and specified on page . Your implementation should be modular so that the sensors, actuators, and environment characteristics (size, shape, dirt placement, etc.) can be changed easily. (Note: for some choices of programming language and operating system there are already implementations in the online code repository.)
+
+Solution 11
+See solution-11.tsx
