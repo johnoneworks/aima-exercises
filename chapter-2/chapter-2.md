@@ -213,3 +213,14 @@ Still some problems with Exercise 10
 1. Under the condition that dirt appears after being cleaned, then yes. That's because, it makes rational sense to travel (maybe after a timeout) to another square to check if it's dirty
 2. See soultion-13-2.tsx
 3. If the status of all squares is given, then the agent doesn't need to wait
+
+Exercise 14
+Consider a modified version of the vacuum environment in Exercise 2.10, in which the geography of the environment—its extent, boundaries, and obstacles—is unknown, as is the initial dirt configuration. (The agent can go Up and Down as well as Left and Right.)
+1. Can a simple reflex agent be perfectly rational for this environment? Explain.
+2. Can a simple reflex agent with a randomized agent function outperform a simple reflex agent? Design such an agent and measure its performance on several environments.
+3. Can you design an environment in which your randomized agent will perform poorly? Show your results.
+4. Can a reflex agent with state outperform a simple reflex agent? Design such an agent and measure its performance on several environments. Can you design a rational agent of this type?
+
+Solution 14
+1. I don't think so, as there is no way to systematically make sure that all empty spaces are traversed
+2. Yes

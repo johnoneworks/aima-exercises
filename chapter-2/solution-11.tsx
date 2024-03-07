@@ -11,31 +11,31 @@ Your implementation should be modular so that the sensors, actuators, and enviro
     else if location = B then return Left
  */
 
-enum Environment {
+enum MAP_11 {
    A = 0,
    B = 1,
 };
 
-enum Status {
+enum Status_11 {
    Clean = 0,
    Dirty = 1,
 };
 
-enum Action {
+enum Action_11 {
    Suck = 0,
    Right = 1,
    Left = 2,
    Undefined = 3,
 };
 
-function determineAction(environment : Environment, status: Status) : Action {
-   if (status === Status.Dirty) {
-      return Action.Suck;
-   } else if (environment === Environment.A) {
-      return Action.Right;
-   } else if (environment === Environment.B) {
-      return Action.Left;
+function determineAction_11(environment : MAP_11, status: Status_11) : Action_11 {
+   if (status === Status_11.Dirty) {
+      return Action_11.Suck;
+   } else if (environment === MAP_11.A) {
+      return Action_11.Right;
+   } else if (environment === MAP_11.B) {
+      return Action_11.Left;
    } else {
-      return Action.Undefined;
+      return Action_11.Undefined;
    }
 }

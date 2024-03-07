@@ -2,17 +2,17 @@
 2. What about a reflex agent with state? Design such an agent.
  */
 
-enum Environment {
+enum MAP_13_2 {
    A,
    B,
 };
 
-enum Status {
+enum Status_13_2 {
    Clean,
    Dirty,
 };
 
-enum Action {
+enum Action_13_2 {
    Suck,
    Right,
    Left,
@@ -24,18 +24,18 @@ interface AgentState {
    timer: number;
 };
 
-function determineAction(environment : Environment, status: Status, agentState: AgentState) : Action {
+function determineAction_13_2(environment : MAP_13_2, status: Status_13_2, agentState: AgentState) : Action_13_2 {
    const TIME_TO_WAIT = 10;
-   if (status === Status.Dirty) {
-      return Action.Suck;
+   if (status === Status_13_2.Dirty) {
+      return Action_13_2.Suck;
    } else if (agentState.timer < TIME_TO_WAIT) {
       agentState.timer++;
-      return Action.Wait;
-   } else if (environment === Environment.A) {
-      return Action.Right;
-   } else if (environment === Environment.B) {
-      return Action.Left;
+      return Action_13_2.Wait;
+   } else if (environment === MAP_13_2.A) {
+      return Action_13_2.Right;
+   } else if (environment === MAP_13_2.B) {
+      return Action_13_2.Left;
    } else {
-      return Action.Undefined;
+      return Action_13_2.Undefined;
    }
 }
