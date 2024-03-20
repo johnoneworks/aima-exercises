@@ -223,4 +223,6 @@ Consider a modified version of the vacuum environment in Exercise 2.10, in which
 
 Solution 14
 1. I don't think so, as there is no way to systematically make sure that all empty spaces are traversed
-2. Yes
+2. Yes, see solution-14-2.tsx
+3. Yes, let's place agent in a position where there are obstacles in all four directions. Then randomized agents will perform worse
+4. Yes, with state, the reflex agent can eliminate unwanted moves.
