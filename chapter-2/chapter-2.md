@@ -226,3 +226,9 @@ Solution 14
 2. Yes, see solution-14-2.tsx
 3. Yes, let's place agent in a position where there are obstacles in all four directions. Then randomized agents will perform worse
 4. Yes, with state, the reflex agent can eliminate unwanted moves.
+
+Exercise 15
+Repeat Exercise 2.13 for the case in which the location sensor is replaced with a “bump” sensor that detects the agent’s attempts to move into an obstacle or to cross the boundaries of the environment. Suppose the bump sensor stops working; how should the agent behave?
+
+Solution 15
+I think we need to add a new state to the maps, UNDEFINED. Then code change should be minimal, just not moving when we find that a move to a square is undefined.
